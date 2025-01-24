@@ -1,1 +1,0 @@
-Hi, this commit is created by using linux coomand.
